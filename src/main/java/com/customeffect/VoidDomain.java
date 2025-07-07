@@ -1,7 +1,7 @@
 package com.customeffect;
 
-import net.advancedplugins.ae.api.custom.AdvancedEffect;
-import net.advancedplugins.ae.api.custom.ExecutionTask;
+import net.advancedplugins.ae.api.AdvancedEffect;
+import net.advancedplugins.ae.api.EffectActivationEvent;
 import org.bukkit.*;
 import org.bukkit.entity.*;
 
